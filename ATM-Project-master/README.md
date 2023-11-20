@@ -1,4 +1,5 @@
-CSCI-185 Programming II
+MD. ABU SAYED 
+DEPARTMENT OF SOFTWARE ENGINEERING 
 
 ATM Project coded in Java.
 #
